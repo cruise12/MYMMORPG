@@ -6,13 +6,7 @@
     "Class": "WARRIOR",
     "Resource": "Character/Warrior",
     "InitLevel": 1,
-    "Speed": 300,
-    "HP": 360.0,
-    "MP": 210.0,
-    "STR": 10.0,
-    "INT": 3.0,
-    "DEX": 5.0,
-    "CRI": 0.02
+    "Speed": 300
   },
   "2": {
     "TID": 2,
@@ -21,13 +15,7 @@
     "Class": "WIZARD",
     "Resource": "Character/Wizard",
     "InitLevel": 1,
-    "Speed": 300,
-    "HP": 300.0,
-    "MP": 390.0,
-    "STR": 3.0,
-    "INT": 10.0,
-    "DEX": 5.0,
-    "CRI": 0.02
+    "Speed": 300
   },
   "3": {
     "TID": 3,
@@ -36,13 +24,7 @@
     "Class": "ARCHER",
     "Resource": "Character/Archer",
     "InitLevel": 1,
-    "Speed": 300,
-    "HP": 320.0,
-    "MP": 300.0,
-    "STR": 7.0,
-    "INT": 4.0,
-    "DEX": 7.0,
-    "CRI": 0.05
+    "Speed": 300
   },
   "1001": {
     "TID": 1001,
@@ -50,58 +32,25 @@
     "Type": "Normal",
     "Class": "WARRIOR",
     "Resource": "Monster/M1001",
-    "InitLevel": 5,
-    "Speed": 300,
-    "HP": 500.0,
-    "MP": 250.0,
-    "CRI": 0.01
+    "InitLevel": 1,
+    "Speed": 300
   },
   "1002": {
     "TID": 1002,
-    "Name": "山丘巨人",
+    "Name": "-",
     "Type": "Normal",
-    "Class": "WARRIOR",
+    "Class": "WIZARD",
     "Resource": "Monster/M1002",
-    "InitLevel": 10,
-    "Speed": 300,
-    "HP": 3000.0,
-    "MP": 500.0,
-    "CRI": 0.03
+    "InitLevel": 1,
+    "Speed": 300
   },
   "1003": {
     "TID": 1003,
-    "Name": "小恶魔",
-    "Type": "Normal",
-    "Class": "WARRIOR",
-    "Resource": "Monster/M1003",
-    "InitLevel": 10,
-    "Speed": 300,
-    "HP": 2000.0,
-    "MP": 1000.0,
-    "CRI": 0.01
-  },
-  "1004": {
-    "TID": 1004,
-    "Name": "骷髅兵",
+    "Name": "-",
     "Type": "Normal",
     "Class": "ARCHER",
-    "Resource": "Monster/M1004",
-    "InitLevel": 10,
-    "Speed": 300,
-    "HP": 2000.0,
-    "MP": 1000.0,
-    "CRI": 0.01
-  },
-  "1005": {
-    "TID": 1005,
-    "Name": "死神",
-    "Type": "Normal",
-    "Class": "WIZARD",
-    "Resource": "Monster/M1005",
-    "InitLevel": 10,
-    "Speed": 300,
-    "HP": 20000.0,
-    "MP": 10000.0,
-    "CRI": 0.05
+    "Resource": "Monster/M1003",
+    "InitLevel": 1,
+    "Speed": 300
   }
 }

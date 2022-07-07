@@ -24,3 +24,8 @@ C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreC
 C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
 C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.exe
 C:\u3d\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\2345Downloads\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+D:\2345Downloads\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.exe.config
+D:\2345Downloads\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\2345Downloads\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\2345Downloads\mmorpg\Src\Server\GameServer\GameServer\obj\Debug\GameServer.pdb

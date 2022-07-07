@@ -7,3 +7,12 @@ C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
 C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
 C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.dll
 C:\u3d\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.pdb
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\bin\Debug\Protocol.dll
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\bin\Debug\Protocol.pdb
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\bin\Debug\protobuf-net.dll
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\bin\Debug\protobuf-net.xml
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.dll
+D:\2345Downloads\mmorpg\Src\Lib\Protocol\obj\Debug\Protocol.pdb

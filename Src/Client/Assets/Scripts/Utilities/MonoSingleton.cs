@@ -18,19 +18,9 @@ public abstract class MonoSingleton<T> : MonoBehaviour where T : MonoBehaviour
 
     }
 
-    void Awake()
-    {    
-        Debug.LogWarningFormat("{0}[{1}] Awake", typeof(T), this.GetInstanceID());
-        if (global)
-        {
-            if(instance!=null && instance!= this.gameObject.GetComponent<T>())
-            {
-                Destroy(this.gameObject);
-                return;
-            }
-            DontDestroyOnLoad(this.gameObject);
-            instance = this.gameObject.GetComponent<T>();
-        }
+    void Start()
+    {
+        if (global) DontDestroyOnLoad(this.gameObject);
         this.OnStart();
     }
 
